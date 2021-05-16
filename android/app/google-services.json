@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365248090007",
+    "project_id": "expenditure-tracking-ambee",
+    "storage_bucket": "expenditure-tracking-ambee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365248090007:android:8477e0edcfc351fd9afed2",
+        "android_client_info": {
+          "package_name": "com.ambee.expen_bee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365248090007-uqt62atm456eil9on5lfnskfn5cbqks2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvWS4Ds_xXeAtiwnQcFGL1Ikd3H7ykUeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365248090007-uqt62atm456eil9on5lfnskfn5cbqks2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
